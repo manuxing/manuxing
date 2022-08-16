@@ -1,5 +1,5 @@
 
-<p align ="center">&nbsp;<img   align ="center" width = 250px  src="./assets/monophy.gif" alt="matimonas" /></p>
+<p align ="center">&nbsp;<img   align ="center"  height="160" width = 220px  src="./assets/monophy.gif" alt="matimonas" /></p>
 
                                            Hi, Pedro Romano here 👋🙇 
 
