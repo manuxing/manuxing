@@ -1,16 +1,29 @@
-### Hi there 👋
+                                                            Hi, Pedro Romano here 👋🙇
+                                                            
 
-<!--
-**manuxing/manuxing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  FullStack Web Developer with the ability to carry out web and mobile projects, always thinking about work from organization, communication and efficiency.
+
+
+  I am committed and super dedicated🖋️, empathic
+and I develop very quickly in groups, I really enjoy spending time learning and understanding new processes until I make them my own🤺.
+
+Connect with me:
+https://www.linkedin.com/in/pedroromano-fullstack/
+
+Languages and Tools:
+
+◕ JavaScript                                                                                                                                              
+◕ ReactJS                                                                                                     
+◕ React Native                                                                                                                
+◕ Redux                                                                                                         
+◕ Node.js                                                                                             
+◕ Express                                                                                                                   
+◕ Sequelize / PostgreSQL                                                                                                                              
+◕ HTML                                                                                      
+◕ CSS                                                                                                                                   
+◕ TailwindCSS                                                                                                                   
+◕ Git & Github                                                                                                      
+◕ Scrum                                                                                                     
+◕ Kanban
