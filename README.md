@@ -1,7 +1,7 @@
 
 <p align ="center">&nbsp;<img   align ="center" width = 250px  src="./assets/monophy.gif" alt="matimonas" /></p>
 
-                           Hi, Pedro Romano here 👋🙇                                                        
+                                              Hi, Pedro Romano here 👋🙇                                                        
 
 
 
@@ -43,11 +43,11 @@ Languages and Tools:
 ◕ PI Video Games Web App
 
 <br>
- <div>
-  <img src="./assets/1" alt="1" height="30" width="40"/>
-  <img src="./assets/2" alt="2" height="30" width="40"/>
-  <img src="./assets/3" alt="3" height="30" width="40"/>
-  <img src="./assets/4" alt="4" height="30" width="40"/>
+ <div display = "flex">
+  <img src="./assets/1.png" alt="1" height="180" width="310"/>
+  <img src="./assets/2.png" alt="2" height="180" width="310"/>
+  <img src="./assets/3.png" alt="3" height="180" width="310"/>
+  <img src="./assets/4.png" alt="4" height="180" width="310"/>
 </div>
 
 <br>
@@ -55,8 +55,8 @@ Languages and Tools:
 
 <br>
  <div>
-  <img src="./assets/5" alt="5" height="30" width="40"/>
-  <img src="./assets/6" alt="6" height="30" width="40"/>
-  <img src="./assets/7" alt="7" height="30" width="40"/>
-  <img src="./assets/8" alt="8" height="30" width="40"/>
+  <img src="./assets/5.jpeg" alt="5" height="250" width="115"/>
+  <img src="./assets/6.jpeg" alt="6" height="250" width="115"/>
+  <img src="./assets/7.jpeg" alt="7" height="250" width="115"/>
+  <img src="./assets/8.jpeg" alt="8" height="250" width="115"/>
 </div>
