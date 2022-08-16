@@ -1,7 +1,7 @@
 
 <p align ="center">&nbsp;<img   align ="center" width = 250px  src="./assets/monophy.gif" alt="matimonas" /></p>
 
-                                              Hi, Pedro Romano here 👋🙇                                                        
+                                           Hi, Pedro Romano here 👋🙇 
 
 
 
@@ -52,6 +52,8 @@ Languages and Tools:
 
 <br>
 ◕ PI Video Games Web App
+
+<br>
 
 <br>
  <div>
