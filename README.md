@@ -20,38 +20,12 @@ Languages and Tools:
   <li>
   <a href="https://git-scm.com/" target="_blank"> Git<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> </a> </li>
 </ul>
+<br></br>
 
 --=-==-==-====-=-===-=====-==-====-====-===-==-==-====-=-===-=====-==-====-====-===-==-==-====-=-===-
 
 🛠️ My proyects
-
-## PF World-Game  
-
-~~~
- 🏨 Client and Admin dashboard Bodega Romano Pin 🍇
-Freelance Project. 
-I worked as Full Stack developer. 
-The project contains:
- Web Client with information, and provides the posibilitie to make Requests and Reviews. 
- Admin Dashboard to visualize, edit, delete, create and actualization of data.
- 
-Tech Utils:
-🍇 Database: PostgreSQL
-🍇 Back-End: NodeJs, Express, Sequelize
-🍇 Front-End: React JS, React Native, Redux, CSS, HTML
-🍇 Additional Libraries: 
-~~~
-
-<br>
-<br>
- <div>
-  <img src="./assets/5.jpeg" alt="5" height="250" width="115"/>
-  <img src="./assets/6.jpeg" alt="6" height="250" width="115"/>
-  <img src="./assets/7.jpeg" alt="7" height="250" width="115"/>
-  <img src="./assets/8.jpeg" alt="8" height="250" width="115"/>
-</div>
-
-
+<br></br>
 
 ## PF World-Game  
 
@@ -81,6 +55,49 @@ Tech Utils:
   <img src="./assets/8.jpeg" alt="8" height="250" width="115"/>
 </div>
 
+<br></br>
+--------------
+<br></br>
+
+## Bodega Romano Pin Pages 
+<br></br>
+<a href="https://deploy-admin-mgno.vercel.app" target="blank">
+ 👉👉👉Client👈👈👈
+</a>
+<br></br>
+~~~
+ 🏨 Client and Admin dashboard Bodega Romano Pin 🍇
+ 
+Freelance Project. 
+I worked as Full Stack developer. 
+
+The project contains:
+ Web Client with information, and provides the posibilitie to make Requests and Reviews. 
+ Admin Dashboard to visualize, edit, delete, create and actualization of data.
+ 
+ 
+Tech Utils:
+🍇 Database: PostgreSQL
+🍇 Back-End: NodeJs, Express, Sequelize
+🍇 Front-End: React JS, React Native, Redux, CSS, HTML
+🍇 Additional Libraries: 
+~~~
+
+<br>
+<br>
+ <div>
+  <img src="./assets/serv lay min.png" alt="6" width="255"/>
+  <img src="./assets/crear sol min.png" alt="7" width="255"/>
+  <img src="./assets/Captura de pantalla (114).png" alt="5" width="420"/>
+  <img src="./assets/cli min.png" alt="8" width="255"/>
+  <img src="./assets/cards cli min.png" alt="8" width="255"/>
+  <img src="./assets/inicio cli.png" alt="8" width="420"/>
+</div>
+
+
+<br></br>
+--------------
+<br></br>
 
 ##  PI Video Games SPA
 
@@ -116,7 +133,7 @@ Tech Utils:
 
 ## Connect whit me:
 <br></br>
-mail: romanopedro25@gmail.com
+**Email**: romanopedro25@gmail.com
 <br></br>
 <a href="https://www.linkedin.com/in/pedroromano-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mat%c3%adas-monastirsky/" height="30" width="40" /></a>
 </p>
