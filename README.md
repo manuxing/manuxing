@@ -25,6 +25,63 @@ Languages and Tools:
 
 🛠️ My proyects
 
+## PF World-Game  
+
+~~~
+ 🏨 Client and Admin dashboard Bodega Romano Pin 🍇
+Freelance Project. 
+I worked as Full Stack developer. 
+The project contains:
+ Web Client with information, and provides the posibilitie to make Requests and Reviews. 
+ Admin Dashboard to visualize, edit, delete, create and actualization of data.
+ 
+Tech Utils:
+🍇 Database: PostgreSQL
+🍇 Back-End: NodeJs, Express, Sequelize
+🍇 Front-End: React JS, React Native, Redux, CSS, HTML
+🍇 Additional Libraries: 
+~~~
+
+<br>
+<br>
+ <div>
+  <img src="./assets/5.jpeg" alt="5" height="250" width="115"/>
+  <img src="./assets/6.jpeg" alt="6" height="250" width="115"/>
+  <img src="./assets/7.jpeg" alt="7" height="250" width="115"/>
+  <img src="./assets/8.jpeg" alt="8" height="250" width="115"/>
+</div>
+
+
+
+## PF World-Game  
+
+~~~
+📌 A mobile game developed to make geography more fun 🌎
+Final group project of Bootcamp Henry. 
+I worked as Full Stack & Mobile Developer. 
+The project has a mobile version, a web version and an administrator panel.
+Tech Utils:
+🎮 Database: PostgreSQL
+🎮 Back-End: NodeJs, Express, Sequelize
+🎮 Front-End: React JS, React Native, Redux, Tailwind, Material-UI, HTML
+🎮 Additional Libraries: 
+✔ Socket-IO (Integrated chat)
+✔ Chart.js (Real-time graphs)
+✔ Stripe (Payment gateway)
+✔ Cloudinary (Upload profile picture)
+✔ Nodemailer (Sending of mails)
+~~~
+
+<br>
+<br>
+ <div>
+  <img src="./assets/5.jpeg" alt="5" height="250" width="115"/>
+  <img src="./assets/6.jpeg" alt="6" height="250" width="115"/>
+  <img src="./assets/7.jpeg" alt="7" height="250" width="115"/>
+  <img src="./assets/8.jpeg" alt="8" height="250" width="115"/>
+</div>
+
+
 ##  PI Video Games SPA
 
 ~~~
@@ -55,35 +112,6 @@ Tech Utils:
 </div>
 
 <br>
-
-## PF World-Game  
-
-~~~
-📌 A mobile game developed to make geography more fun 🌎
-Final group project of Bootcamp Henry. 
-I worked as Full Stack & Mobile Developer. 
-The project has a mobile version, a web version and an administrator panel.
-Tech Utils:
-🎮 Database: PostgreSQL
-🎮 Back-End: NodeJs, Express, Sequelize
-🎮 Front-End: React JS, React Native, Redux, Tailwind, Material-UI, HTML
-🎮 Additional Libraries: 
-✔ Socket-IO (Integrated chat)
-✔ Chart.js (Real-time graphs)
-✔ Stripe (Payment gateway)
-✔ Cloudinary (Upload profile picture)
-✔ Nodemailer (Sending of mails)
-~~~
-
-<br>
-<br>
- <div>
-  <img src="./assets/5.jpeg" alt="5" height="250" width="115"/>
-  <img src="./assets/6.jpeg" alt="6" height="250" width="115"/>
-  <img src="./assets/7.jpeg" alt="7" height="250" width="115"/>
-  <img src="./assets/8.jpeg" alt="8" height="250" width="115"/>
-</div>
-
 
 
 ## Connect whit me:
