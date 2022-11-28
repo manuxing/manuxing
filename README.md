@@ -1,11 +1,10 @@
-<h1 align="center">Hi, Pedro Romano here 👋🙇</h1>
-<h3 align="center">FullStack Web Developer with the ability to carry out web and mobile projects, always thinking about work from organization, communication and efficiency.</h3>
+<h1 align="center">Hola, soy Pedro Romano 👋🙇</h1>
+<h3 align="center">Desarrollador Web/mobile FullStack, Rijo mi trabajo pensando en la Organización, comunicación y eficiencia de mi equipo </h3>
 
+  🖋️ Comprometido, dedicado y empatico.
+me desarrollo socialmente rapido en grupos, y disfruto invertir tiempo en aprender y entender nuevos procesos y metodologias hasta poder manejarlas como propias
 
-  I am committed and super dedicated🖋️, empathic
-and I develop very quickly in groups, I really enjoy spending time learning and understanding new processes until I make them my own🤺.
-
-Languages and Tools:
+Languajes:
 ◕
 <ul>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> JavaScript   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/></a></li>
@@ -24,26 +23,26 @@ Languages and Tools:
 
 --=-==-==-====-=-===-=====-==-====-====-===-==-==-====-=-===-=====-==-====-====-===-==-==-====-=-===-
 
-🛠️ My proyects
+🛠️ mis proyectos
 <br></br>
 
 ## PF World-Game  
 
 ~~~
-📌 A mobile game developed to make geography more fun 🌎
-Final group project of Bootcamp Henry. 
-I worked as Full Stack & Mobile Developer. 
-The project has a mobile version, a web version and an administrator panel.
-Tech Utils:
+📌 Un juego móvil desarrollado para hacer la geografía más divertida 🌎
+Proyecto final Bootcamp Henry. 
+trabaje como Desarrollador FullStack & desarrollador móvil. 
+El proyecto incluye el juego móvil, una version web y un panel de administrador web.
+Tech Stack:
 🎮 Database: PostgreSQL
 🎮 Back-End: NodeJs, Express, Sequelize
 🎮 Front-End: React JS, React Native, Redux, Tailwind, Material-UI, HTML
 🎮 Additional Libraries: 
-✔ Socket-IO (Integrated chat)
-✔ Chart.js (Real-time graphs)
-✔ Stripe (Payment gateway)
-✔ Cloudinary (Upload profile picture)
-✔ Nodemailer (Sending of mails)
+✔ Socket-IO (chat integrado)
+✔ Chart.js (graficos)
+✔ Stripe (pasarela de pagos)
+✔ Cloudinary (manejo de fotos)
+✔ Nodemailer (envio de emails)
 ~~~
 
 <br>
@@ -94,25 +93,24 @@ ____________________
 ## Bodega Romano Pin Pages 
 <br></br>
 <a href="https://deploy-admin-mgno.vercel.app" target="blank">
- 👉👉👉Client👈👈👈
+ 👉👉👉Cliente👈👈👈
 </a>
 <br></br>
 ~~~
- 🏨 Client and Admin dashboard Bodega Romano Pin 🍇
+ 🏨 Cliente y panel de administracion Bodega Romano Pin 🍇
  
-Freelance Project. 
-I worked as Full Stack developer. 
+Proyecto freelance.
+Trabaje como desarrollador FullStack. 
 
-The project contains:
- Web Client with information, and provides the posibilitie to make Requests and Reviews. 
+El proyecto incluye:
+ cliente web con informacion sobre el emprendimiento, posibilidad de realizar solicitudes y reseñas
  Admin Dashboard to visualize, edit, delete, create and actualization of data.
+ panel de administrador para visualizar, editar, borrar y actualizar informacion
  
- 
-Tech Utils:
+Tech Stack:
 🍇 Database: PostgreSQL
 🍇 Back-End: NodeJs, Express, Sequelize
 🍇 Front-End: React JS, React Native, Redux, CSS, HTML
-🍇 Additional Libraries: 
 ~~~
 
 <br>
@@ -134,12 +132,14 @@ Tech Utils:
 ##  PI Video Games SPA
 
 ~~~
-Henry Bootcamp Individual Project 
-I worked as a Full-Stack Developer
-Design and develop a web page about videogames including:
-◉ Search by name
+Proyecto individual Henry Bootcamp
+trabaje dcomo desarrollador fullStack
+Diseñar y desarrollar una pagina web sobre videojuegos que incluye: 
+◉ buscar por nombre
 ◉ Filtering, Sorting and Pagination
-◉ Option to create a videogame
+◉ Filtrado, Ordenado y paginacion
+◉ Opcion de crear un video juego
+
 Tech Utils: 
 ◉ Javascript
 ◉ ReactJS
