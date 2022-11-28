@@ -53,9 +53,7 @@ Tech Stack:
   <img src="./assets/8.jpeg" alt="8" height="250" width="115"/>
 </div>
 
-<br></br>
 --------------
-<br></br>
 
 ## Musicapp
 
@@ -82,11 +80,6 @@ ____________________
 
 ____________________
 
-
-
-<br></br>
---------------
-<br></br>
 
 
 ## Bodega Romano Pin Pages 
@@ -123,9 +116,7 @@ Tech Stack:
 </div>
 
 
-<br></br>
 --------------
-<br></br>
 
 ##  PI Video Games SPA
 
