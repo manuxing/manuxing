@@ -1,10 +1,9 @@
 <h1 align="center">Hola, soy Pedro Romano 👋🙇</h1>
 <h3 align="center">Desarrollador Web/mobile FullStack, Rijo mi trabajo pensando en la Organización, comunicación y eficiencia de mi equipo </h3>
 
-  🖋️ Comprometido, dedicado y empatico.
-me desarrollo socialmente rapido en grupos, y disfruto invertir tiempo en aprender y entender nuevos procesos y metodologias hasta poder manejarlas como propias
+  🖋️  Comprometido, dedicado y empático. Me desarrollo socialmente rápido en grupos, y disfruto invertir tiempo en aprender y entender nuevos procesos y metodologías hasta poder manejarlas como propias
 
-Languajes:
+Lenguajes:
 ◕
 <ul>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> JavaScript   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/></a></li>
@@ -30,14 +29,14 @@ Languajes:
 
 ~~~
 📌 Un juego móvil desarrollado para hacer la geografía más divertida 🌎
-Proyecto final Bootcamp Henry. 
-trabaje como Desarrollador FullStack & desarrollador móvil. 
-El proyecto incluye el juego móvil, una version web y un panel de administrador web.
+Proyecto final Bootcamp Henry. 
+Trabaje como Desarrollador FullStack & desarrollador móvil. 
+El proyecto incluye el juego móvil, una versión web y un panel de administrador web.
 Tech Stack:
 🎮 Database: PostgreSQL
 🎮 Back-End: NodeJs, Express, Sequelize
 🎮 Front-End: React JS, React Native, Redux, Tailwind, Material-UI, HTML
-🎮 Additional Libraries: 
+🎮 Libraries Adicionales: 
 ✔ Socket-IO (chat integrado)
 ✔ Chart.js (graficos)
 ✔ Stripe (pasarela de pagos)
@@ -62,10 +61,10 @@ Tech Stack:
 
 Un Proyecto Front-End realizado con React que incluye:
 
-Un reproductor web completamente responsive con musica de entre los 50 y los 90
+Un reproductor web completamente responsive con música de entre los 50 y los 90
 
 
- - Una pagina de cliente responsive con:
+ - Una página de cliente responsive con:
  ~~~
   🔸Reproduce en orden
   🔸reproduce en repeticion 
@@ -103,9 +102,8 @@ Proyecto freelance.
 Trabaje como desarrollador FullStack. 
 
 El proyecto incluye:
- cliente web con informacion sobre el emprendimiento, posibilidad de realizar solicitudes y reseñas
- Admin Dashboard to visualize, edit, delete, create and actualization of data.
- panel de administrador para visualizar, editar, borrar y actualizar informacion
+ cliente web con información sobre el emprendimiento, posibilidad de realizar solicitudes y reseñas
+ Panel de administrador para visualizar, editar, borrar y actualizar información.
  
 Tech Stack:
 🍇 Database: PostgreSQL
@@ -134,11 +132,10 @@ Tech Stack:
 ~~~
 Proyecto individual Henry Bootcamp
 trabaje dcomo desarrollador fullStack
-Diseñar y desarrollar una pagina web sobre videojuegos que incluye: 
-◉ buscar por nombre
-◉ Filtering, Sorting and Pagination
-◉ Filtrado, Ordenado y paginacion
-◉ Opcion de crear un video juego
+Diseñar y desarrollar una página web sobre videojuegos que incluye: 
+◉ Buscada por nombre
+◉ Filtrado, Ordenado y paginación
+◉ Opción de crear un videojuego
 
 Tech Utils: 
 ◉ Javascript
